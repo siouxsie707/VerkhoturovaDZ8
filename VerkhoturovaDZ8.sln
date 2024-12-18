@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerkhoturovaDZ8", "VerkhoturovaDZ8\VerkhoturovaDZ8.csproj", "{629B9355-4551-41A6-BE4F-1343C65D5ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_8", "lab_8\lab_8.csproj", "{37C38706-658C-4520-B32C-1BA1DA56ABF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629B9355-4551-41A6-BE4F-1343C65D5ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629B9355-4551-41A6-BE4F-1343C65D5ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629B9355-4551-41A6-BE4F-1343C65D5ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629B9355-4551-41A6-BE4F-1343C65D5ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C38706-658C-4520-B32C-1BA1DA56ABF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C38706-658C-4520-B32C-1BA1DA56ABF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C38706-658C-4520-B32C-1BA1DA56ABF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C38706-658C-4520-B32C-1BA1DA56ABF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
